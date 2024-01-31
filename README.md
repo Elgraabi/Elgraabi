@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **silvatdb8@gmail.com**
 
-- ⚡ Fun fact **Eu sou apaixonado por aprender novas tecnologias e explorar maneiras criativas de resolver desafios de programação. Vamos construir algo juntos no mundo do código!**
+- ⚡ Fun fact **Eu sou afeiçoado por aprender novas tecnologias e explorar maneiras criativas de resolver desafios de programação. Vamos construir algo juntos no mundo do código!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
